@@ -1,0 +1,25 @@
+{
+  "name": "passport-pipedrive",
+  "version": "0.1.0",
+  "description": "Pipedrive authentication strategy for Passport.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkusTarn/passport-pipedrive.git"
+  },
+  "author": "Markus Tarn",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "homepage": "https://github.com/MarkusTarn/passport-pipedrive#readme"
+}
