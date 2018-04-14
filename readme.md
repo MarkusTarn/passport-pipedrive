@@ -53,8 +53,9 @@ application:
 
 ## TODO
 
-- [ ] Tests  
+- [ ] tests  
 - [ ] state support
+- [ ] token refreshing
 
 ## Credits
 
